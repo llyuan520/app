@@ -1,0 +1,10 @@
+//created by Luoshj on 2018/12/10
+export {default} from "./Company.r"
+export { default as CreateCompany1} from "./CreateCompany1"
+export { default as CreateCompany2} from "./CreateCompany2"
+export { default as CreateCompany3} from "./CreateCompany3"
+export { default as CompanyHome} from "./CompanyHome"
+export { default as CompanyDetail} from "./CompanyDetail"
+export { default as EditCompany3} from "./EditCompany3"
+export { default as EditCompany2} from "./EditCompany2"
+export { default as EditCompany1} from "./EditCompany1"

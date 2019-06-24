@@ -1,0 +1,11 @@
+//created by Luoshj on 2018/12/17
+export {default} from "./OrganizationScreen.r"
+export {default as DepartmentDetail} from "./DepartmentDetail.js"
+export {default as addDepartment} from "./addDepartment.js"
+export {default as AddDepartmentUser} from "./AddDepartmentUser.js"
+export {default as SelDepartment} from "./SelDepartment.js"
+export {default as InvitationUser} from "./InvitationUser.js"
+export {default as CompanyOrganizationUser} from "./CompanyOrganizationUser.js"
+export {default as DepartmentSettings} from "./DepartmentSettings.js"
+export {default as DepartmentEditUser} from "./DepartmentEditUser.js"
+export {default as bindUserToDepartment} from "./bindUserToDepartment.js"

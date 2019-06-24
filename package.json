@@ -1,0 +1,46 @@
+{
+    "name": "empty-project-template",
+    "main": "node_modules/expo/AppEntry.js",
+    "private": true,
+    "scripts": {
+        "start": "expo start",
+        "android": "expo start --android",
+        "ios": "expo start --ios",
+        "eject": "expo eject"
+    },
+    "jest": {
+        "preset": "jest-expo"
+    },
+    "dependencies": {
+        "antd-mobile": "^2.2.6",
+        "antd-mobile-rn": "^2.3.0",
+        "crypto-js": "^3.1.9-1",
+        "expo": "^31.0.2",
+        "immutable": "^4.0.0-rc.12",
+        "lodash": "^4.17.10",
+        "rc-form": "^2.2.0",
+        "react": "16.5.0",
+        "react-dom": "^16.6.3",
+        "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+        "react-native-image-picker": "^0.27.2",
+        "react-native-image-zoom-viewer": "^2.2.24",
+        "react-native-is-iphonex": "^1.0.1",
+        "react-native-maps": "^0.22.1",
+        "react-native-qrcode": "^0.2.6",
+        "react-native-scrollable-tab-view": "^0.10.0",
+        "react-native-swipeout": "^2.3.6",
+        "react-native-swiper": "^1.5.13",
+        "react-navigation": "^2.6.1",
+        "react-navigation-redux-helpers": "^2.0.2",
+        "react-redux": "^5.0.7",
+        "react-router-native": "^4.3.0",
+        "redux": "^4.0.0",
+        "redux-actions": "^2.6.4",
+        "redux-persist": "^5.10.0",
+        "rmc-input-number": "^1.0.5"
+    },
+    "devDependencies": {
+        "babel-preset-expo": "^5.0.0",
+        "react-native-vector-icons": "^6.1.0"
+    }
+}
